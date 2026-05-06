@@ -30,3 +30,6 @@ A roll of 1-4 is a Critical Injury and cannot normally be cured. Non-critical In
 
 # Doom Clock
 At the end of every round, the Doom Clock increases by 1 [[Doom]]. Once it has Doom equal to the missions Doom limit, the game ends in defeat unless otherwise specified. At certain Doom thresholds, mission effects may trigger that hinder the Cabal.
+
+# What's next?
+After completing your mission, you will be rewarded with Experience and Affinity points. See [[Advancing your Mage]] for more details!
